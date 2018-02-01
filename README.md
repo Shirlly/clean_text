@@ -10,6 +10,7 @@ Cleaning includes:
 
 
 Input: text files in directory
+
 Output: the same filenames and data format as input data in output directory
 
 

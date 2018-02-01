@@ -1,8 +1,16 @@
 # clean_text
 
-This code is used to clean Tweets text files.
+This code is used to clean text with special symbols, especially for tweets.
 
-Cleansing includes:
-1) Removing urls
-2) Removing special symbols
-3) Removing @ accounts before and end of the text
+Cleaning includes:
+1) Remove urls
+2) Remove hashtag sign #
+3) Remove account sign @
+4) Remove special symbols
+
+
+Input: text files in directory
+Output: the same filenames and data format as input data in output directory
+
+
+Package version:  Python 2.7
